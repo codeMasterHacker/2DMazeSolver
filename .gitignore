@@ -1,0 +1,7 @@
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+MazeAI.sln
+obj/
+.DS_Store
+.DS_Store?
